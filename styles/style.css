@@ -100,7 +100,7 @@
   justify-content: space-between;
   align-items: center;
   margin-top: 106px;
-  color: rgb(255 255 255 / 80%)
+  color: rgb(255 255 255 / 100%)
 }
 
 .cover__description-text {
@@ -136,7 +136,6 @@
   padding-left: 40px;
   font-size: 40px;
   font-weight: 700;
-  line-height: 1.175;
   text-transform: uppercase;
 }
 
@@ -146,7 +145,6 @@
   margin-top: 30px;
   margin-left: 40px;
   font-size: 20px;
-  line-height: 1.2;
   text-underline-offset: 4px;
 }
 
@@ -201,13 +199,11 @@
 .card__text {
   font-size: 20px;
   font-weight: 400;
-  line-height: 1.2;
 }
 
  .card__title {
   font-size: 22px;
   font-weight: 700;
-  line-height: 1.2;
   text-transform: uppercase;
   text-decoration: underline;
 }
